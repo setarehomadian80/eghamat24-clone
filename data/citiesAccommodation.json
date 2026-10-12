@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "cityId": 1,
+    "city" : "مشهد",
+    "name": "اقامتگاه‌های مشهد",
+    "discount": "تخفیف تا 45%",
+    "slug": "MashhadStays",
+    "href": "/accommodation/MashhadStays",
+    "type": "iran",
+    "location": {
+      "lat": 36.2605,
+      "lng": 59.6168
+    }
+  },
+  {
+    "id": 2,
+    "cityId": 2,
+    "city" : "کاشان",
+    "name": "اقامتگاه‌های کاشان",
+    "discount": "تخفیف تا 30%",
+    "slug": "KashanStays",
+    "href": "/accommodation/KashanStays",
+    "type": "iran",
+    "location": {
+      "lat": 26.532,
+      "lng": 53.9801
+    }
+  },
+  {
+    "id": 3,
+    "cityId": 3,
+    "city" : "تهران",
+    "name": "اقامتگاه‌های تهران",
+    "discount": "تخفیف تا 25%",
+    "slug": "TehranStays",
+    "href": "/accommodation/TehranStays",
+    "type": "iran",
+    "location": {
+      "lat": 35.6892,
+      "lng": 51.389
+    }
+  },
+  {
+    "id": 4,
+    "cityId":4,
+    "city" : "قشم",
+    "name": "اقامتگاه‌های قشم",
+    "discount": "تخفیف تا 40%",
+    "slug": "QeshmStays",
+    "href": "/accommodation/QeshmStays",
+    "type": "iran",
+    "location": {
+      "lat": 26.9581,
+      "lng": 56.2719
+    }
+  },
+  {
+    "id": 5,
+    "cityId":5,
+    "city" : "شیراز",
+    "name": "اقامتگاه‌های شیراز",
+    "discount": "تخفیف تا 50%",
+    "slug": "ShirazStays",
+    "href": "/accommodation/ShirazStays",
+    "type": "iran",
+    "location": {
+      "lat": 29.5918,
+      "lng": 52.5837
+    }
+  },
+  {
+    "id": 6,
+    "cityId": 6,
+    "city" : "اصفهان",
+    "name": "اقامتگاه‌های اصفهان",
+    "discount": "تخفیف تا 33%",
+    "slug": "EsfahanStays",
+    "href": "/accommodation/EsfahanStays",
+    "type": "iran",
+    "location": {
+      "lat": 32.6546,
+      "lng": 51.668
+    }
+  },
+  {
+    "id": 7,
+    "cityId": 7,
+    "city" : "یزد",
+    "name": "اقامتگاه‌های یزد",
+    "discount": "تخفیف تا 60%",
+    "slug": "YazdStays",
+    "href": "/accommodation/YazdStays",
+    "type": "iran",
+    "location": {
+      "lat": 31.8974,
+      "lng": 54.3569
+    }
+  },
+  {
+    "id": 8,
+    "cityId": 8,
+    "city" : "رشت",
+    "name": "اقامتگاه‌های رشت",
+    "discount": "تخفیف تا 20%",
+    "slug": "RashtStays",
+    "href": "/accommodation/RashtStays",
+    "type": "iran",
+    "location": {
+      "lat": 38.0962,
+      "lng": 46.2738
+    }
+  }
+]

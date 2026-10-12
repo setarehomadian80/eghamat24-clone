@@ -1,0 +1,22 @@
+.footerContent p {
+  font-size: 12px;
+  margin-top: 12px;
+  line-height: 3;
+  color: #727272;
+}
+
+.footerContent h2 {
+  font-size: 12px;
+  margin-top: 40px;
+  margin-bottom: 12px;
+  color: #414040;
+}
+
+.footerContent strong {
+  color: #3f3f3f;
+}
+
+.footerContent span {
+  color: #727272;
+  font-size: 12px;
+}

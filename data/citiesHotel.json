@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "cityId": 1,
+    "city" : "مشهد",
+    "name": "هتل‌های مشهد",
+    "discount": "تخفیف تا 61%",
+    "slug": "MashhadHotels",
+    "href": "/hotel/MashhadHotels",
+    "type": "iran",
+    "location": {
+      "lat": 36.2605,
+      "lng": 59.6168
+    }
+  },
+  {
+    "id": 2,
+    "cityId": 12,
+    "city" : "کیش",
+    "name": "هتل‌های کیش",
+    "discount": "تخفیف تا 36%",
+    "slug": "KishHotels",
+    "href": "/hotel/KishHotels",
+    "type": "iran",
+    "location": {
+      "lat": 26.532,
+      "lng": 53.9801
+    }
+  },
+  {
+    "id": 3,
+    "cityId": 2,
+    "city" : "تهران",
+    "name": "هتل‌های تهران",
+    "discount": "تخفیف تا 41%",
+    "slug": "TehranHotels",
+    "href": "/hotel/TehranHotels",
+    "type": "iran",
+    "location": {
+      "lat": 35.6892,
+      "lng": 51.389
+    }
+  },
+  {
+    "id": 4,
+    "cityId":10,
+    "city" : "قشم",
+    "name": "هتل‌های قشم",
+    "discount": "تخفیف تا 50%",
+    "slug": "QeshmHotels",
+    "href": "/hotel/QeshmHotels",
+    "type": "iran",
+    "location": {
+      "lat": 26.9581,
+      "lng": 56.2719
+    }
+  },
+  {
+    "id": 5,
+    "cityId": 3,
+    "city" : "شیراز",
+    "name": "هتل‌های شیراز",
+    "discount": "تخفیف تا 56%",
+    "slug": "ShirazHotels",
+    "href": "/hotel/ShirazHotels",
+    "type": "iran",
+    "location": {
+      "lat": 29.5918,
+      "lng": 52.5837
+    }
+  },
+  {
+    "id": 6,
+    "cityId": 4,
+    "city" : "اصفهان",
+    "name": "هتل‌های اصفهان",
+    "discount": "تخفیف تا 35%",
+    "slug": "EsfahanHotels",
+    "href": "/hotel/EsfahanHotels",
+    "type": "iran",
+    "location": {
+      "lat": 32.6546,
+      "lng": 51.668
+    }
+  },
+  {
+    "id": 7,
+    "cityId": 5,
+    "city" : "یزد",
+    "name": "هتل‌های یزد",
+    "discount": "تخفیف تا 75%",
+    "slug": "YazdHotels",
+    "href": "/hotel/YazdHotels",
+    "type": "iran",
+    "location": {
+      "lat": 31.8974,
+      "lng": 54.3569
+    }
+  },
+  {
+    "id": 8,
+    "cityId": 21,
+    "city" : "تبریز",
+    "name": "هتل‌های تبریز",
+    "discount": "تخفیف تا 23%",
+    "slug": "TabrizHotels",
+    "href": "/hotel/TabrizHotels",
+    "type": "iran",
+    "location": {
+      "lat": 38.0962,
+      "lng": 46.2738
+    }
+  },
+  {
+    "id": 9,
+    "cityId": 26,
+    "city" : "استانبول",
+    "name": "هتل های استانبول",
+    "discount": "تخفیف تا 24%",
+    "slug": "IstanbulHotels",
+    "href": "/hotel/IstanbulHotels",
+    "type": "foreign",
+    "location": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    }
+  },
+  {
+    "id": 10,
+    "cityId": 27,
+    "city" : "وان",
+    "name": "هتل های وان",
+    "discount": "تخفیف تا 33%",
+    "slug": "VanHotels",
+    "href": "/hotel/VanHotels",
+    "type": "foreign",
+    "location": {
+      "lat": 38.5012,
+      "lng": 43.373
+    }
+  },
+  {
+    "id": 11,
+    "cityId": 28,
+    "city" : "دبی",
+    "name": "هتل های دبی",
+    "discount": "تخفیف تا 50%",
+    "slug": "DubaiHotels",
+    "href": "/hotel/DubaiHotels",
+    "type": "foreign",
+    "location": {
+      "lat": 25.2048,
+      "lng": 55.2708
+    }
+  },
+
+    {
+    "id": 12,
+    "cityId": 29,
+    "city" : "نجف",
+    "name": "هتل های نجف",
+    "discount": "تخفیف تا 50%",
+    "slug": "NajafHotels",
+    "href": "/hotel/NajafHotels",
+    "type": "foreign",
+    "location": {
+      "lat": 25.2048,
+      "lng": 55.2708
+    }
+  },
+
+  {
+    "id": 13,
+    "cityId": 30,
+    "city" : "کربلا",
+    "name": "هتل های کربلا",
+    "discount": "تخفیف تا 61%",
+    "slug": "KarbalaHotels",
+    "href": "/hotel/KarbalaHotels",
+    "type": "foreign",
+    "location": {
+      "lat": 32.616,
+      "lng": 44.0249
+    }
+  }
+]

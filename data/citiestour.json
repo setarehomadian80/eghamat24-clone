@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "cityId": 1,
+    "city": "کیش",
+    "name": "تور کیش",
+    "discount": "تخفیف تا 45%",
+    "slug": "KishTours",
+    "href": "/tour/KishTours",
+    "type": "iran",
+    "location": {
+      "lat": 26.532,
+      "lng": 53.9801
+    }
+  },
+  {
+    "id": 2,
+    "cityId": 2,
+    "city": "مشهد",
+    "name": "تور مشهد",
+    "discount": "تخفیف تا 30%",
+    "slug": "MashhadTours",
+    "href": "/tour/MashhadTours",
+    "type": "iran",
+    "location": {
+      "lat": 36.2605,
+      "lng": 59.6168
+    }
+  },
+  {
+    "id": 3,
+    "cityId": 3,
+    "city": "قشم",
+    "name": "تور قشم",
+    "discount": "تخفیف تا 25%",
+    "slug": "QeshmTours",
+    "href": "/tour/QeshmTours",
+    "type": "iran",
+    "location": {
+      "lat": 26.9581,
+      "lng": 56.2719
+    }
+  },
+  {
+    "id": 4,
+    "cityId": 4,
+    "city": "چابهار",
+    "name": "تور چابهار",
+    "discount": "تخفیف تا 40%",
+    "slug": "ChabaharTours",
+    "href": "/tour/ChabaharTours",
+    "type": "iran",
+    "location": {
+      "lat": 25.2919,
+      "lng": 60.643
+    }
+  },
+  {
+    "id": 5,
+    "cityId": 5,
+    "city": "شیراز",
+    "name": "تور شیراز",
+    "discount": "تخفیف تا 50%",
+    "slug": "ShirazTours",
+    "href": "/tour/ShirazTours",
+    "type": "iran",
+    "location": {
+      "lat": 29.5918,
+      "lng": 52.5837
+    }
+  },
+  {
+    "id": 6,
+    "cityId": 6,
+    "city": "اصفهان",
+    "name": "تور اصفهان",
+    "discount": "تخفیف تا 33%",
+    "slug": "EsfahanTours",
+    "href": "/tour/EsfahanTours",
+    "type": "iran",
+    "location": {
+      "lat": 32.6546,
+      "lng": 51.668
+    }
+  },
+  {
+    "id": 7,
+    "cityId": 7,
+    "city": "دبی",
+    "name": "تور دبی",
+    "discount": "تخفیف تا 60%",
+    "slug": "DubaiTours",
+    "href": "/tour/DubaiTours",
+    "type": "foreign",
+    "location": {
+      "lat": 25.2048,
+      "lng": 55.2708
+    }
+  },
+  {
+    "id": 8,
+    "cityId": 8,
+    "city": "استانبول",
+    "name": "تور استانبول",
+    "discount": "تخفیف تا 20%",
+    "slug": "IstanbulTours",
+    "href": "/tour/IstanbulTours",
+    "type": "foreign",
+    "location": {
+      "lat": 41.0082,
+      "lng": 28.9784
+    }
+  },
+  {
+    "id": 9,
+    "cityId": 9,
+    "city": "آنتالیا",
+    "name": "تور آنتالیا",
+    "discount": "تخفیف تا 20%",
+    "slug": "AntalyaTours",
+    "href": "/tour/AntalyaTours",
+    "type": "foreign",
+    "location": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    }
+  },
+  {
+    "id": 10,
+    "cityId": 10,
+    "city": "ایروان",
+    "name": "تور ایروان",
+    "discount": "تخفیف تا 20%",
+    "slug": "YerevanTours",
+    "href": "/tour/YerevanTours",
+    "type": "foreign",
+    "location": {
+      "lat": 40.1792,
+      "lng": 44.4991
+    }
+  },
+  {
+    "id": 11,
+    "cityId": 11,
+    "city": "تفلیس",
+    "name": "تور تفلیس",
+    "discount": "تخفیف تا 20%",
+    "slug": "TbilisiTours",
+    "href": "/tour/TbilisiTours",
+    "type": "foreign",
+    "location": {
+      "lat": 41.7151,
+      "lng": 44.8271
+    }
+  },
+  {
+    "id": 12,
+    "cityId": 12,
+    "city": "نجف",
+    "name": "تور نجف",
+    "discount": "تخفیف تا 20%",
+    "slug": "NajafTours",
+    "href": "/tour/NajafTours",
+    "type": "foreign",
+    "location": {
+      "lat": 31.9985,
+      "lng": 44.3398
+    }
+  }
+]

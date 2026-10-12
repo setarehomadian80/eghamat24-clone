@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "name": "اتاق دو تخته تویین الماس",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 2,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 2,
+      "type": "تخت سینگل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/1.jpg",
+    "amenities": [
+      "یخچال",
+      "تلویزیون",
+      "چای ساز",
+      "سیستم سرمایشی",
+      "سیستم گرمایشی"
+    ],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 13850000,
+      "discount": 33,
+      "final": 9475000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 2,
+    "name": "اتاق دو تخته تویین باران",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 2,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 2,
+      "type": "تخت سینگل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/2.jpg",
+    "amenities": ["یخچال", "آب رایگان", "دمپایی", "تلویزیون"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 16450000,
+      "discount": 25,
+      "final": 12450000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 3,
+    "name": "اتاق امپریال جونیور سوئیت",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 3,
+      "extraBed": true
+    },
+    "bed": {
+      "count": 1,
+      "type": "تخت دبل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/3.jpg",
+    "amenities": ["میز کار", "وان حمام", "یخچال", "چای ساز"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 16850000,
+      "discount": 20,
+      "final": 13100000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+        "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 4,
+    "name": "اتاق دو تخته دبل لوکس",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 2,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 1,
+      "type": "تخت دبل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/4.jpg",
+    "amenities": ["تلویزیون", "مینی بار", "سیستم تهویه"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 15000000,
+      "discount": 15,
+      "final": 12750000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 5,
+    "name": "اتاق یک تخته استاندارد",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 1,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 1,
+      "type": "تخت سینگل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/5.jpg",
+    "amenities": ["یخچال", "تلویزیون", "کمد لباس", "سیستم تهویه"],
+   "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 9500000,
+      "discount": 18,
+      "final": 7790000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 6,
+    "name": "اتاق سه تخته خانوادگی",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 3,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 3,
+      "type": "تخت سینگل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/6.jpg",
+    "amenities": ["یخچال", "چای ساز", "تلویزیون", "حمام اختصاصی"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 18500000,
+      "discount": 22,
+      "final": 14430000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 7,
+    "name": "سوئیت رویال یک خوابه",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 4,
+      "extraBed": true
+    },
+    "bed": {
+      "count": 1,
+      "type": "تخت دبل"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/7.jpg",
+    "amenities": ["اتاق نشیمن", "میز کار", "مینی بار", "وان حمام"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 25000000,
+      "discount": 25,
+      "final": 18750000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 8,
+    "name": "سوئیت امپریال VIP",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 4,
+      "extraBed": true
+    },
+    "bed": {
+      "count": 1,
+      "type": "تخت کینگ"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/8.jpg",
+    "amenities": ["چشم انداز ویژه", "مبلمان", "جکوزی", "مینی بار"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 32000000,
+      "discount": 30,
+      "final": 22400000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 9,
+    "name": "اتاق کانکت خانوادگی",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 5,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 4,
+      "type": "ترکیبی"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/9.jpg",
+    "amenities": ["دو اتاق متصل", "یخچال", "تلویزیون", "کمد لباس"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 28000000,
+      "discount": 20,
+      "final": 22400000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  },
+
+  {
+    "id": 10,
+    "name": "اتاق VIP با چشم انداز ویژه",
+    "type": "اقامت با صبحانه",
+    "status": "اتاق باقی مانده",
+    "capacity": {
+      "person": 2,
+      "extraBed": false
+    },
+    "bed": {
+      "count": 1,
+      "type": "تخت کینگ"
+    },
+    "mealPlan": "صبحانه",
+    "image": "/rooms/10.jpg",
+    "amenities": ["چشم انداز شهر", "مینی بار", "تلویزیون هوشمند", "سیستم صوتی"],
+    "services": ["رزرو آنی", "کنسلی رایگان"],
+    "price": {
+      "old": 29000000,
+      "discount": 28,
+      "final": 20880000,
+      "unit": "تومان",
+      "date": "تقویم قیمتی اتاق",
+      "offer": 5
+    },
+    "available": true
+  }
+]
