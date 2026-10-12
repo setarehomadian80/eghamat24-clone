@@ -218,9 +218,11 @@ export default function CityPropertiesPage({ city, properties, type }: Props) {
   return (
     <main>
       {/*  */}
-      <div className="xl:container mx-auto mt-8
-       px-5">
-      <SearchBoxPages />
+      <div
+        className="xl:container mx-auto mt-8
+       px-5"
+      >
+        <SearchBoxPages />
       </div>
       {/*  */}
       <div
@@ -242,8 +244,7 @@ export default function CityPropertiesPage({ city, properties, type }: Props) {
         {/* text */}
         <div className="flex-1 flex flex-col justify-evenly gap-4">
           <p>
-            لیست {type === "hotel" ? "هتل‌های" : "اقامتگاه‌های"}{" "}
-            <span>{city.name}</span>
+            لیست <span>{city.name}</span>
           </p>
 
           <div
@@ -380,8 +381,8 @@ export default function CityPropertiesPage({ city, properties, type }: Props) {
         onClick={() => setActiveSheet(null)}
         className={`fixed inset-0 bg-black/50 z-40
            transition-opacity duration-300 md:hidden ${
-          activeSheet ? "opacity-100" : "opacity-0 pointer-events-none"
-        }`}
+             activeSheet ? "opacity-100" : "opacity-0 pointer-events-none"
+           }`}
       />
 
       {/* پنل فیلتر (موبایل) */}
